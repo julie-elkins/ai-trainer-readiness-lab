@@ -18,6 +18,7 @@ REQUIRED_FILES = (
     Path("course/VISUAL-SYSTEM.md"),
     Path("course/COURSE_GUIDE.md"),
     Path("templates/learner-worksheet.md"),
+    Path("templates/learner-feedback.md"),
     Path("templates/facilitator-scorecard.md"),
     Path("templates/workshop-revision-record.md"),
 )
@@ -36,6 +37,7 @@ REQUIRED_PHRASES = {
         "Synthetic scenario",
         "Assessment rule",
         "Accessibility and responsible use",
+        "learner feedback",
         "What this proves and does not prove",
     ),
     Path("course/VISUAL-SYSTEM.md"): (
@@ -51,6 +53,12 @@ REQUIRED_PHRASES = {
         "Evidence note",
         "Prototype threshold",
         "not a certification decision",
+    ),
+    Path("templates/learner-feedback.md"): (
+        "Confidence before and after",
+        "It is not a grade",
+        "Feedback describes learner experience",
+        "Do not include your name",
     ),
 }
 
