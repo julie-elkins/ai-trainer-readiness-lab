@@ -23,6 +23,7 @@ REQUIRED_FILES = (
     Path("templates/facilitator-scorecard.md"),
     Path("templates/workshop-revision-record.md"),
     Path("templates/pilot-summary.md"),
+    Path("templates/trainer-readiness-checklist.md"),
 )
 
 REQUIRED_PHRASES = {
@@ -41,6 +42,7 @@ REQUIRED_PHRASES = {
         "Accessibility and responsible use",
         "learner feedback",
         "bounded pilot",
+        "subject-matter readiness",
         "What this proves and does not prove",
     ),
     Path("course/VISUAL-SYSTEM.md"): (
@@ -75,6 +77,13 @@ REQUIRED_PHRASES = {
         "## Experience evidence",
         "## Comparison",
         "## Boundary",
+    ),
+    Path("templates/trainer-readiness-checklist.md"): (
+        "Define the teaching boundary",
+        "Build a first-party source pack",
+        "Map capability to evidence",
+        "Make the readiness decision",
+        "Internal course library (private, if approved)",
     ),
 }
 

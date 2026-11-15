@@ -39,6 +39,7 @@ signposts, and color cues carry consistent meanings.
 4. [Learner feedback](templates/learner-feedback.md)
 5. [Pilot protocol](docs/pilot-protocol.md)
 6. [Pilot summary](templates/pilot-summary.md)
+7. [Trainer subject-matter readiness checklist](templates/trainer-readiness-checklist.md)
 
 Run the contract check from the repository root:
 
@@ -101,11 +102,18 @@ credential trial, or evidence of learner transfer.
 - [Julie Elkins' portfolio](https://julie-elkins.github.io/)
   presents the projects and research narrative.
 
-## Current first-party references
+## Current first-party learning references
 
-These are optional product references for facilitators, not prerequisites:
+These are optional learning and product references for facilitators, not
+prerequisites. The [complete learning map](GUIDE.md#-first-party-learning-map)
+explains how to choose only the sources needed for a lesson.
 
 - [OpenAI Academy](https://openai.com/academy)
+- [Anthropic Academy](https://www.anthropic.com/learn)
+- [Llama Learn](https://www.llama.com/learn/)
+- [OpenAI prompting guide](https://platform.openai.com/docs/guides/prompting)
+- [Anthropic prompt engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+- [Llama documentation](https://www.llama.com/docs/)
 - [OpenAI Academy workspace agents](https://openai.com/academy/workspace-agents/)
 - [Codex changelog](https://developers.openai.com/codex/changelog?type=general)
 - [Codex general availability announcement](https://openai.com/index/codex-now-generally-available)
