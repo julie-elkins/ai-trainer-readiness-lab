@@ -89,6 +89,9 @@ REQUIRED_PHRASES = {
         "🔒 Internal course library (private, if approved)",
         "Trainer mindset and support",
         "[!TIP]",
+        "Previously recorded classes (private, if approved)",
+        "Office hours (private, if approved)",
+        "Trainer dry runs (private or synthetic)",
     ),
 }
 

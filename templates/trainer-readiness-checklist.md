@@ -29,6 +29,9 @@ change.
 | Limitations or responsible-use guidance |  |  |  |
 | Release notes or change log |  |  |  |
 | 🔒 Internal course library (private, if approved) |  |  |  |
+| 🎥 Previously recorded classes (private, if approved) |  |  |  |
+| 🕒 Office hours (private, if approved) |  |  |  |
+| 🧪 Trainer dry runs (private or synthetic) |  |  |  |
 
 Do not teach a capability based only on a marketing page, an old tutorial, or
 an unverified example.

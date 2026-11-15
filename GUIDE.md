@@ -189,6 +189,25 @@ without checking it against first-party sources.
   content, credentials, provider-private prompts, or internal identifiers into
   this public repository.
 
+- **🎥 Previously recorded classes (private, if approved):** Review approved
+  recordings, transcripts, notes, and recurring questions to identify unclear
+  explanations, useful examples, and support needs before creating new
+  material. Do not publish recordings or transcripts, and remove learner names,
+  private questions, unpublished exam content, credentials, provider-private
+  prompts, and internal identifiers.
+
+- **🕒 Office hours (private, if approved):** Review recurring learner
+  questions, support requests, and points of confusion to improve explanations
+  and practice activities. Treat these as improvement signals, not proof of
+  learner mastery. Do not publish private questions, names, recordings, or
+  transcripts.
+
+- **🧪 Trainer dry runs (private or synthetic):** Rehearse the workshop before
+  delivery and record timing issues, unclear instructions, failed
+  demonstrations, unanswered questions, and needed support. Use synthetic
+  examples whenever possible, and do not carry private learner or internal
+  content into the public repository.
+
 > [!TIP]
 > ### 🌟 Trainer note
 >
