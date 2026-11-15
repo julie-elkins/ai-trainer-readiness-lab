@@ -83,7 +83,7 @@ REQUIRED_PHRASES = {
         "Build a first-party source pack",
         "Map capability to evidence",
         "Make the readiness decision",
-        "Internal course library (private, if approved)",
+        "🔒 Internal course library (private, if approved)",
     ),
 }
 

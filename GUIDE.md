@@ -182,7 +182,7 @@ use its official documentation, model or capability limitations, and change
 log as the source pack. Do not treat a third-party tutorial as authoritative
 without checking it against first-party sources.
 
-- **Internal course library (private, if approved):** Search your approved
+- **🔒 Internal course library (private, if approved):** Search your approved
   internal repository for existing lesson plans, labs, demos, rubrics, and
   product notes before creating new material. Repurpose only content cleared
   for this audience, and never copy private learner data, unpublished exam

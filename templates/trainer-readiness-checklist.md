@@ -28,7 +28,7 @@ change.
 | Technical documentation |  |  |  |
 | Limitations or responsible-use guidance |  |  |  |
 | Release notes or change log |  |  |  |
-| Internal course library (private, if approved) |  |  |  |
+| 🔒 Internal course library (private, if approved) |  |  |  |
 
 Do not teach a capability based only on a marketing page, an old tutorial, or
 an unverified example.
