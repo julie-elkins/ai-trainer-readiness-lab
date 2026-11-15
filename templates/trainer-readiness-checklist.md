@@ -73,3 +73,21 @@ Choose one:
 
 Record the decision in the workshop revision record when it changes the
 lesson, demo, worksheet, or rubric.
+
+> [!TIP]
+> **🌟 Trainer mindset and support**
+>
+> Bring energy, curiosity, and warmth to the room. It is okay to say, “I do
+> not know yet.” The goal is to never stop learning, and Julie and the
+> supporting team are here to help however we can.
+
+## 6. Trainer mindset and support
+
+- [ ] I will bring energy, curiosity, and warmth to the room.
+- [ ] I can say, “I do not know yet,” without presenting an unsupported answer.
+- [ ] I have named what I will verify after the session.
+- [ ] I know where to ask for help from Julie and the supporting team.
+
+The goal is to never stop learning. A trainer who models honest questions,
+careful verification, and continued learning teaches a stronger habit than a
+trainer who pretends to know everything.

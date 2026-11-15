@@ -43,6 +43,9 @@ REQUIRED_PHRASES = {
         "learner feedback",
         "bounded pilot",
         "subject-matter readiness",
+        "Trainer note",
+        "[!TIP]",
+        "never stop learning",
         "What this proves and does not prove",
     ),
     Path("course/VISUAL-SYSTEM.md"): (
@@ -84,6 +87,8 @@ REQUIRED_PHRASES = {
         "Map capability to evidence",
         "Make the readiness decision",
         "🔒 Internal course library (private, if approved)",
+        "Trainer mindset and support",
+        "[!TIP]",
     ),
 }
 
