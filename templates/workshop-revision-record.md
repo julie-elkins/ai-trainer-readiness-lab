@@ -14,6 +14,17 @@ What was difficult to interpret?
 
 What accessibility or delivery issue appeared?
 
+## Learner feedback themes
+
+How many feedback responses were reviewed? Do not record names or other
+identifiers.
+
+Repeated themes:
+
+What did learners say was clear, unclear, useful, or difficult?
+
+What confidence change did learners report, if any?
+
 ## Decision
 
 Choose one:
@@ -33,4 +44,4 @@ Why is this the smallest change likely to improve the decision?
 ## Boundary
 
 What does this observation not establish about learner transfer, product
-quality, or production performance?
+experience, product quality, credential validity, or production performance?

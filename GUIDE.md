@@ -113,6 +113,7 @@ flowchart TB
 
 - [Learner worksheet](templates/learner-worksheet.md)
 - [Facilitator scorecard](templates/facilitator-scorecard.md)
+- [Learner feedback](templates/learner-feedback.md)
 - [Workshop revision record](templates/workshop-revision-record.md)
 - one positive example;
 - one degraded example; and
@@ -208,6 +209,17 @@ the decision, failure boundary, evidence, and limitation.
 Record one revision decision with the
 [workshop revision record](templates/workshop-revision-record.md).
 
+### After the workshop: 📝 Collect learner feedback
+
+Give each learner the [learner feedback form](templates/learner-feedback.md).
+It should take about five minutes and can be completed on paper or as a local
+Markdown file after the 60-minute workshop.
+
+Use the responses to identify repeated clarity, support, accessibility, and
+format issues. Do not treat confidence ratings or positive comments as proof of
+learning. Compare the themes with the rubric and teach-back evidence, then
+record any change in the workshop revision record.
+
 ## 📝 Assessment rule
 
 Score five criteria from 0 to 2:
@@ -254,11 +266,13 @@ establish that the rubric is reliable across learners or contexts.
 | Delivery evidence | The workshop and worksheet were provided | The learning opportunity was available |
 | Practice evidence | The learner marked facts and unknowns | The learner attempted the task |
 | Outcome evidence | Rubric-scored output and teach-back | Performance in this bounded activity |
+| Experience evidence | Learner feedback themes and confidence ratings | Clarity, friction, and improvement opportunities |
 | Adoption signal | Edits, retries, requests for help, abandonment | Where to sample for review |
 
 Attendance, views, completion clicks, and positive comments are operational
-signals. They are not, by themselves, evidence that a learner can perform the
-target task.
+signals. Learner feedback describes experience, not performance. None of these
+signals, by themselves, are evidence that a learner can perform the target
+task.
 
 ## 🔄 Product-change review
 
@@ -289,6 +303,8 @@ The facilitator package is complete when:
 - every rubric score has an evidence note;
 - accessibility and responsible-use boundaries are stated;
 - one synthetic response has been used for facilitator calibration; and
+- the learner feedback form is available;
+- one feedback theme has been considered; and
 - one revision is recorded with its reason.
 
 ## ⚠️ What this proves and does not prove

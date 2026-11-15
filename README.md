@@ -36,6 +36,7 @@ signposts, and color cues carry consistent meanings.
 1. [Learner worksheet](templates/learner-worksheet.md)
 2. [Facilitator scorecard](templates/facilitator-scorecard.md)
 3. [Workshop revision record](templates/workshop-revision-record.md)
+4. [Learner feedback](templates/learner-feedback.md)
 
 Run the contract check from the repository root:
 
@@ -64,7 +65,8 @@ The capstone package must contain:
 5. a learner evidence worksheet;
 6. a scoring rubric;
 7. a five-minute teach-back; and
-8. a revision record based on observed learner evidence.
+8. a learner feedback form; and
+9. a revision record based on observed learner evidence and feedback themes.
 
 Another facilitator should be able to run the workshop without the author
 present.
