@@ -115,6 +115,8 @@ flowchart TB
 - [Facilitator scorecard](templates/facilitator-scorecard.md)
 - [Learner feedback](templates/learner-feedback.md)
 - [Workshop revision record](templates/workshop-revision-record.md)
+- [Pilot protocol](docs/pilot-protocol.md)
+- [Pilot summary](templates/pilot-summary.md)
 - one positive example;
 - one degraded example; and
 - one new synthetic practice request.
@@ -220,6 +222,18 @@ format issues. Do not treat confidence ratings or positive comments as proof of
 learning. Compare the themes with the rubric and teach-back evidence, then
 record any change in the workshop revision record.
 
+## 🧪 Run a bounded pilot
+
+Before repeating the workshop, use the
+[pilot protocol](docs/pilot-protocol.md) with one to three learners. Keep the
+synthetic task and assessment contract stable, then complete the
+[pilot summary](templates/pilot-summary.md).
+
+Compare performance evidence, experience evidence, and delivery evidence
+separately. If they disagree, record the disagreement rather than averaging it
+away. The pilot is for finding what to inspect next; it does not establish
+course reliability, learner transfer, or credential validity.
+
 ## 📝 Assessment rule
 
 Score five criteria from 0 to 2:
@@ -305,6 +319,7 @@ The facilitator package is complete when:
 - one synthetic response has been used for facilitator calibration; and
 - the learner feedback form is available;
 - one feedback theme has been considered; and
+- a bounded pilot has a protocol and summary template;
 - one revision is recorded with its reason.
 
 ## ⚠️ What this proves and does not prove

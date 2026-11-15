@@ -17,10 +17,12 @@ REQUIRED_FILES = (
     Path("GUIDE.md"),
     Path("course/VISUAL-SYSTEM.md"),
     Path("course/COURSE_GUIDE.md"),
+    Path("docs/pilot-protocol.md"),
     Path("templates/learner-worksheet.md"),
     Path("templates/learner-feedback.md"),
     Path("templates/facilitator-scorecard.md"),
     Path("templates/workshop-revision-record.md"),
+    Path("templates/pilot-summary.md"),
 )
 
 REQUIRED_PHRASES = {
@@ -38,6 +40,7 @@ REQUIRED_PHRASES = {
         "Assessment rule",
         "Accessibility and responsible use",
         "learner feedback",
+        "bounded pilot",
         "What this proves and does not prove",
     ),
     Path("course/VISUAL-SYSTEM.md"): (
@@ -59,6 +62,19 @@ REQUIRED_PHRASES = {
         "It is not a grade",
         "Feedback describes learner experience",
         "Do not include your name",
+    ),
+    Path("docs/pilot-protocol.md"): (
+        "one to three learners",
+        "Performance evidence",
+        "Experience evidence",
+        "Delivery evidence",
+        "Interpretation boundary",
+    ),
+    Path("templates/pilot-summary.md"): (
+        "## Performance evidence",
+        "## Experience evidence",
+        "## Comparison",
+        "## Boundary",
     ),
 }
 
