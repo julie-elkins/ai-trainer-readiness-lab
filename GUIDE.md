@@ -189,6 +189,15 @@ without checking it against first-party sources.
   content, credentials, provider-private prompts, or internal identifiers into
   this public repository.
 
+> [!TIP]
+> ### 🌟 Trainer note
+>
+> Bring energy, curiosity, and warmth to the room. You do not need to know
+> everything before you teach, and it is okay to say, “I do not know yet.” The
+> goal is to never stop learning: name what needs to be verified, invite
+> questions, and use the next delivery to improve. Julie and the supporting
+> team are here to help however we can.
+
 ## 🗺️ Delivery plan
 
 ### 0–5 minutes: 🎯 Name the decision
