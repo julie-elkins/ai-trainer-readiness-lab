@@ -14,6 +14,8 @@ ROOT = Path(__file__).resolve().parents[1]
 
 REQUIRED_FILES = (
     Path("README.md"),
+    Path("GUIDE.md"),
+    Path("course/VISUAL-SYSTEM.md"),
     Path("course/COURSE_GUIDE.md"),
     Path("templates/learner-worksheet.md"),
     Path("templates/facilitator-scorecard.md"),
@@ -24,14 +26,26 @@ REQUIRED_PHRASES = {
     Path("README.md"): (
         "provider-neutral",
         "AI Teaching Strategies",
+        "GUIDE.md",
         "python3 scripts/check_course.py",
     ),
-    Path("course/COURSE_GUIDE.md"): (
+    Path("GUIDE.md"): (
+        "```mermaid",
+        "## 🎯 Purpose",
         "Learning objectives",
         "Synthetic scenario",
         "Assessment rule",
         "Accessibility and responsible use",
         "What this proves and does not prove",
+    ),
+    Path("course/VISUAL-SYSTEM.md"): (
+        "Palette",
+        "Diagram conventions",
+        "Emoji legend",
+    ),
+    Path("course/COURSE_GUIDE.md"): (
+        "complete course is maintained",
+        "GUIDE.md",
     ),
     Path("templates/facilitator-scorecard.md"): (
         "Evidence note",

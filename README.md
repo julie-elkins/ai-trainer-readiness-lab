@@ -5,7 +5,7 @@ improving hands-on AI workshops.
 
 The lab is built for learning and instruction leaders, technical enablement
 practitioners, community trainers, and AI practitioners who need to teach more
-than product features. Learners practise turning an AI capability into a
+than product features. Learners practice turning an AI capability into a
 bounded workflow, checking the result, explaining the limitation, and teaching
 the workflow to someone else.
 
@@ -15,7 +15,7 @@ not affiliated with or endorsed by OpenAI.
 ## Why this project
 
 An AI workshop is not ready because the slides are finished. A trainer-ready
-programme needs:
+program needs:
 
 - an audience and competency map;
 - a hands-on task with a safe failure boundary;
@@ -29,7 +29,9 @@ The lab makes those elements inspectable in one public package.
 
 ## Start here
 
-Read the [course guide](course/COURSE_GUIDE.md), then use the templates:
+Read the complete [GUIDE.md](GUIDE.md), then use the templates. The guide uses
+the [course visual system](course/VISUAL-SYSTEM.md) so diagrams, emoji
+signposts, and color cues carry consistent meanings.
 
 1. [Learner worksheet](templates/learner-worksheet.md)
 2. [Facilitator scorecard](templates/facilitator-scorecard.md)
@@ -40,6 +42,10 @@ Run the contract check from the repository root:
 ```bash
 python3 scripts/check_course.py
 ```
+
+The older [course guide path](course/COURSE_GUIDE.md) remains as a
+compatibility link, but `GUIDE.md` is the single reading path and source for
+the course text.
 
 The required path is offline and synthetic. A live model, a product account,
 network access, and provider credentials are not required.
@@ -65,7 +71,7 @@ present.
 
 ## Course boundaries
 
-The course teaches transferable workflow judgement. ChatGPT, Codex, reusable
+The course teaches transferable workflow judgment. ChatGPT, Codex, reusable
 skills, and workspace agents can be used as optional product examples, but no
 product feature is a hidden prerequisite.
 
