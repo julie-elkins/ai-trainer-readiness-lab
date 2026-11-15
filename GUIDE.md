@@ -117,9 +117,77 @@ flowchart TB
 - [Workshop revision record](templates/workshop-revision-record.md)
 - [Pilot protocol](docs/pilot-protocol.md)
 - [Pilot summary](templates/pilot-summary.md)
+- [Trainer subject-matter readiness checklist](templates/trainer-readiness-checklist.md)
 - one positive example;
 - one degraded example; and
 - one new synthetic practice request.
+
+## 🧭 Trainer subject-matter readiness
+
+Before teaching an unfamiliar product or topic, complete the
+[trainer subject-matter readiness checklist](templates/trainer-readiness-checklist.md).
+**Subject-matter readiness** means knowing enough to explain the intended use,
+limitations, evidence requirements, and safe stopping points. It does not mean
+becoming the product's deepest technical expert.
+
+Use this sequence:
+
+1. define what the learner must understand and what is out of scope;
+2. build a first-party source pack;
+3. map the capability to observable evidence;
+4. rehearse one positive path and one degraded path;
+5. teach the explanation back to another person; and
+6. decide whether you are ready, ready only within a stated boundary, or not
+   ready yet.
+
+### 📚 First-party learning map
+
+Use one foundation resource, then the technical and safety material needed for
+the lesson. These are starting points, not a required curriculum.
+
+**OpenAI**
+
+- [AI Fundamentals](https://openai.com/academy/ai-fundamentals/) — broad
+  concepts and responsible-use foundations.
+- [Building with AI](https://openai.com/academy/building-with-ai/) — practical
+  application patterns.
+- [Evaluate AI Applications](https://academy.openai.com/public/courses/evaluate-ai-applications-pxds7)
+  — evaluation concepts and practice.
+- [Prompting guide](https://platform.openai.com/docs/guides/prompting) —
+  technical reference for instruction design.
+- [Codex changelog](https://developers.openai.com/codex/changelog?type=general)
+  — product-change review before a Codex lesson.
+
+**Anthropic**
+
+- [Anthropic Academy](https://www.anthropic.com/learn) — AI fluency and
+  capability foundations.
+- [Prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+  — instruction design and structured prompting.
+- [Tool use](https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/overview)
+  — tool-calling concepts and boundaries.
+- [Model Context Protocol](https://docs.anthropic.com/en/docs/mcp) — official
+  documentation for the open protocol used to connect models and tools.
+
+**Meta**
+
+- [Llama Learn](https://www.llama.com/learn/) — introductory learning paths.
+- [Llama documentation](https://www.llama.com/docs/) — current technical
+  reference and model documentation.
+- [Llama Cookbook](https://github.com/meta-llama/llama-cookbook) — official
+  implementation examples and patterns.
+
+When a provider does not publish an equivalent course for the exact lesson,
+use its official documentation, model or capability limitations, and change
+log as the source pack. Do not treat a third-party tutorial as authoritative
+without checking it against first-party sources.
+
+- **Internal course library (private, if approved):** Search your approved
+  internal repository for existing lesson plans, labs, demos, rubrics, and
+  product notes before creating new material. Repurpose only content cleared
+  for this audience, and never copy private learner data, unpublished exam
+  content, credentials, provider-private prompts, or internal identifiers into
+  this public repository.
 
 ## 🗺️ Delivery plan
 
@@ -317,6 +385,7 @@ The facilitator package is complete when:
 - every rubric score has an evidence note;
 - accessibility and responsible-use boundaries are stated;
 - one synthetic response has been used for facilitator calibration; and
+- the trainer subject-matter readiness checklist is complete for the lesson;
 - the learner feedback form is available;
 - one feedback theme has been considered; and
 - a bounded pilot has a protocol and summary template;
